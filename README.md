@@ -1,3 +1,3 @@
 # noobchain
 
-![Example output](Screenshot from 2021-03-20 00-26-38.png)
+![Example output](https://raw.githubusercontent.com/himanshu64/noobchain/main/Screenshot%20from%202021-03-20%2000-26-38.png)
